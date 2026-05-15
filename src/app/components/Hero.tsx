@@ -9,7 +9,7 @@ export default function Hero() {
       {/* left */}
       <div className="max-w-xl">
         <h1 className="text-6xl font-bold leading-tight">
-          DevOps Engineer <br />
+          Jr DevOps Engineer <br />
           Cloud & Infrastructure
         </h1>
 
