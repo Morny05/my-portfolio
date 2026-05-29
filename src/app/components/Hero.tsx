@@ -9,7 +9,7 @@ export default function Hero() {
       {/* LEFT */}
       <div className="max-w-xl text-center lg:text-left">
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight text-[#0B132B]">
-          Jr DevOps Engineer <br />
+          DevOps Engineer <br />
           Cloud & Infrastructure
         </h1>
 
